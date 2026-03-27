@@ -103,3 +103,6 @@ Use the sidebar to navigate between different sections:
 - Plotly 5.15.0
 - WordCloud 1.9.2
 - Other dependencies listed in requirements.txt
+
+---
+> 🛡️ **Automated Security Scan:** 27-March-2026 | **Status:** Warning: 1 potential issues detected ⚠️
